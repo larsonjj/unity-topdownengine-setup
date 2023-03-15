@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Top Down Engine
+Assets/ThirdParty/TopDownEngine/*
+!Assets/ThirdParty/TopDownEngine/*.cs
+!Assets/ThirdParty/TopDownEngine/*.asmdef
+!Assets/ThirdParty/TopDownEngine/*.asmref
+!Assets/ThirdParty/TopDownEngine/*.txt
