@@ -14,11 +14,13 @@ This repository contains instructions on how to setup a Unity project with sane 
 
 ### Windows
 
-Install these files easily on Windows with the following command:
+Install these files on Windows with the following steps:
 
-```bash
-git clone https://github.com/larsonjj/unity-topdownengine-setup.git . && rmdir /s /q .git
-```
+1. Download a ZIP file of this repository
+![download-zip](https://user-images.githubusercontent.com/3893845/225505481-9e853765-5f18-41f0-8c60-a04b2e6246dd.png)
+2. Unzip the file
+3. Open of the unzipped folder and copy over the following files into your Unity project root folder: `LICENSE` and `.gitignore`
+
 
 ### MacOS/Linux
 
