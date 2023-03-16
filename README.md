@@ -16,11 +16,11 @@ This repository contains instructions on how to setup a Unity project with sane 
 
 Install these files on Windows with the following steps:
 
-1. Download a ZIP file of this repository
-![download-zip](https://user-images.githubusercontent.com/3893845/225505481-9e853765-5f18-41f0-8c60-a04b2e6246dd.png)
+1. Download a ZIP file of this repository (see screenshot below)
 2. Unzip the file
 3. Open of the unzipped folder and copy over the following files into your Unity project root folder: `LICENSE` and `.gitignore`
 
+![download-zip](https://user-images.githubusercontent.com/3893845/225505839-76e70ba8-2416-4bcb-a1ee-7bdf1024c06c.png)
 
 ### MacOS/Linux
 
