@@ -25,5 +25,5 @@ git clone https://github.com/larsonjj/unity-topdownengine-setup.git . && rmdir /
 Install these files easily on MacOS or Linux with the following command:
 
 ```bash
-git clone https://github.com/larsonjj/unity-topdownengine-setup.git . && rm --rf .git
+curl -#L https://github.com/larsonjj/unity-topdownengine-setup/tarball/master | tar -xzv --strip-components 1 --exclude={README.md}
 ```
